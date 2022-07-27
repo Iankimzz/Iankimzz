@@ -3,8 +3,6 @@
 
  <h2 align="center">I want more iced coffee</h2>
 </p>
-
-<p>
 <h3> Stack </h3>
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -14,6 +12,6 @@
 <img src="https://img.shields.io/badge/SystemVerilog-FF61F6?style=flat-square&logo=stripe&logoColor=black"/>
 <img src="https://img.shields.io/badge/UVM-512BD4?style=flat-square&logo=verizon&logoColor=white"/>
 </div>
-</p>
 
+- - -
 [![Ian's stats](https://github-readme-stats.vercel.app/api?username=Iankimzz&show_icons&theme=radical)
