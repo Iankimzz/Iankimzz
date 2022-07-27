@@ -14,4 +14,4 @@
 </div>
 
 - - -
-[![Ian's stats](https://github-readme-stats.vercel.app/api?username=Iankimzz&show_icons&theme=radical)
+[![Ian's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Iankimzz&show_icons&theme=radical)
