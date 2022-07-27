@@ -13,4 +13,5 @@
 <img src="https://img.shields.io/badge/SystemVerilog-#FF61F6?style=flat-square&logo=stripe&logoColor=black"/>
 <img src="https://img.shields.io/badge/UVM-#512BD4?style=flat-square&logo=verizon&logoColor=white"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iankimzz)](https://github.com/Iankimzz/github-readme-stats)
+
+[![Ian's stats](https://github-readme-stats.vercel.app/api?username=Iankimzz&show_icons&theme=radical)
