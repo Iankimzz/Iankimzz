@@ -1,19 +1,5 @@
-<p align="center">
- <img width="100px" src="https://cdn-icons-png.flaticon.com/512/1102/1102874.png?w=360" align="center" alt="Ian Kim" />
-
- <h2 align="center">I want more iced coffee</h2>
-</p>
-<h3> Stack </h3>
-<div>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<h3 align="center"> Stack </h3><p align="center"><img width="100px" src="https://cdn-icons-png.flaticon.com/512/1102/1102874.png?w=360" align="center" alt="Ian Kim" /></p><div align="center"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><br><img align="center" src="https://img.shields.io/badge/Verilog-006600?style=flat-square&logo=v&logoColor=black"/><img align="center" src="https://img.shields.io/badge/SystemVerilog-FF61F6?style=flat-square&logo=stripe&logoColor=black"/><img align="center" src="https://img.shields.io/badge/UVM-512BD4?style=flat-square&logo=verizon&logoColor=white"/></div>
 <br>
-<img src="https://img.shields.io/badge/Verilog-006600?style=flat-square&logo=v&logoColor=black"/>
-<img src="https://img.shields.io/badge/SystemVerilog-FF61F6?style=flat-square&logo=stripe&logoColor=black"/>
-<img src="https://img.shields.io/badge/UVM-512BD4?style=flat-square&logo=verizon&logoColor=white"/>
-</div>
 
-- - -
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iankimzz&show_icons&theme=radical)
-<br>
-![Ian's stats](https://github-readme-stats.vercel.app/api?username=Iankimzz&show_icons&theme=radical)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Iankimzz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Iankimzz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iankimzz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
